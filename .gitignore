@@ -1,0 +1,5 @@
+.idea
+*.class
+*.pdf
+out
+target
